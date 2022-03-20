@@ -1,2 +1,13 @@
 # First-Personal-Site
-My **first** Website from an Udemy course. I will upload **all of my** works to track my Web Developer progress.
+**My first Website:** https://tomiwd.github.io/First-Personal-Site/  
+
+Technologies used:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
+Responsive Layout:
+<ul>
+  <li>no</li>
+</ul>
